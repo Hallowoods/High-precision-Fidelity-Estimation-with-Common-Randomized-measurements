@@ -1,6 +1,4 @@
 """
-unitary_noise_upperboundterms.py
-
 This module provides functions for calculating upper bound terms(including cross-characteristic, characteristic, variance, and their amplified version, sample complexity) for snk states with different k. Both for CRM and THR protocol.
 
 Pauli noise is assumed.
@@ -216,7 +214,7 @@ def compute_for_magnitude(magnow, state, nqubit):
 def main(nqubit, k,):
     start_time = time.time(),
     current_time = datetime.now().strftime("%m%d_%H%M")
-    folder_path = rf'C:\Users\Administrator\Desktop\0808test'
+    folder_path = rf'xxxxx'     #USER DEFINED
     filename = f'shadow_norm_snk_state_nqubit={nqubit}_k={k}_{current_time}.csv'
     full_path = f"{folder_path}\\{filename}"
     N = 40  #  # Instance number
