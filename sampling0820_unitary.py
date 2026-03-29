@@ -3,7 +3,7 @@
 
 This module provides functions for calculating Delta norms, characteristic functions, cross-characteristic functions with infidelities in random instances. (random single-error Pauli channel, random Pauli channel and random coherent channel)
 
-unitary noise is assumed.
+coherent noise is assumed.
 
 Author: YZY
 
