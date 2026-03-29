@@ -10,15 +10,15 @@ The code is primarily designed to:
 * Simulate the numerical values of these quantities under different noise models.
 * Evaluate and compare the variance and circuit cost of different estimation protocols.
 
-
-
+## Notice
+These source code is only responsible for generating the data in the paper, which needs further reasonable selections to obtain the figures in the paper. 
 
 ## Requirements
 
 This project is written in Python. We recommend using `conda` or `pip` to create a virtual environment.
 
 Core dependencies:
-* Python >= 3.8
+* Python >= 3.11.5
 * Numpy
 * Scipy
 * Matplotlib
