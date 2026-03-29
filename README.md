@@ -140,4 +140,10 @@ Here is a detailed guide on how to reproduce the core figures in our paper.
 * **Corresponding Script**: `ghz_diffferent_n.py` 
 ---
 
+### Fig. S9
+<p align="center">
+  <img src="./figures/figS9.png" width="500" >
+</p>
 
+* **Corresponding Script**: Calculated directly by Eqs. (2), (165) and (166).
+---
