@@ -73,7 +73,7 @@ Here is a detailed guide on how to reproduce the core figures in our paper.
 ---
 
 
-### Fig. S1
+### Figs. S1,S2
 <p align="center">
   <img src="./figures/figS1.png" width="500" >
 </p>
@@ -85,10 +85,19 @@ Here is a detailed guide on how to reproduce the core figures in our paper.
 ---
 
 
-### Fig. 4
+### Fig. S3
 <p align="center">
   <img src="./figures/figS3.png" width="500" >
 </p>
 
 * **Corresponding Script**: `upperboundterms_k_depolar.py` 
+---
+
+
+### Fig. S4
+<p align="center">
+  <img src="./figures/figS4.png" width="500" >
+</p>
+
+* **Corresponding Script**: `unoise_1022vio.py` 
 ---
