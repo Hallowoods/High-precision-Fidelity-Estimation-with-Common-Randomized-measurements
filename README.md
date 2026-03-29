@@ -40,7 +40,7 @@ Core dependencies:
 }
 ```
 
-## Reproducing the Figures (Figure-Code Mapping)
+## Figure-Code Mapping
 
 Here is a detailed guide on how to reproduce the core figures in our paper. 
 
