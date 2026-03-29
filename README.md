@@ -121,3 +121,12 @@ Here is a detailed guide on how to reproduce the core figures in our paper.
 * **Corresponding Script**: `A_Small_repetition_upperbound_k.py` 
 ---
 
+
+
+### Fig. S7
+<p align="center">
+  <img src="./figures/figS7.png" width="500" >
+</p>
+
+* **Corresponding Script**: `upperboundterms_k copy 2.py` 
+---
