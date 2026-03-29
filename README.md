@@ -130,3 +130,14 @@ Here is a detailed guide on how to reproduce the core figures in our paper.
 
 * **Corresponding Script**: `upperboundterms_k copy 2.py` 
 ---
+
+
+### Fig. S8
+<p align="center">
+  <img src="./figures/figS8.png" width="500" >
+</p>
+
+* **Corresponding Script**: `ghz_diffferent_n.py` 
+---
+
+
