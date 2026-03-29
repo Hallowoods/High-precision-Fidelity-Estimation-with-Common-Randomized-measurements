@@ -71,3 +71,14 @@ Here is a detailed guide on how to reproduce the core figures in our paper.
 
 * **Corresponding Script**: `single_pauli_error.py` (For both Clifford and 4-desgin CRM, one needs to change the parameter 'fdesign=True' to decide the schemes.)
 ---
+
+
+### Fig. S1
+<p align="center">
+  <img src="./figures/figS1.png" width="500" >
+</p>
+<p align="center">
+  <img src="./figures/figS2.png" width="500" >
+</p>
+* **Corresponding Script**: `sampling0820.py` (For both Clifford and 4-desgin CRM, Pauli noise), and `sampling0820_unitary.py` (For both Clifford and 4-desgin CRM, coherent noise)
+---
