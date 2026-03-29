@@ -54,7 +54,7 @@ Here is a detailed guide on how to reproduce the core figures in our paper.
 ### Figure 3
 
 <p align="center">
-  <img src="./figures/fig3.png" width="600" >
+  <img src="./figures/fig3.png" width="300" >
 </p>
 
 * **Corresponding Script**: `runmpi.py` (Only Pauli CRM is considered, since analytical expressions of 4-design and Clifford CRM can be easily obtained.)
