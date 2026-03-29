@@ -162,7 +162,6 @@ def generate_unitary_channel_rotation2(state, nqubit, channelinfo):
         cir.u3([site], param=u3_params)  
     state_after = cir.forward(state)
     state_afterp = _type_transform(state_after, "density_matrix").numpy()
-    print('fid_inst:',np.trace(statep@state_afterp),'  fid_theory:',prodtest)
     return state_after
 
 def caculate_characters_CRM(state,sigma,nqubit):
