@@ -11,7 +11,7 @@ The code is primarily designed to:
 * Evaluate and compare the variance and circuit cost of different estimation protocols.
 
 ## Notice
-These source code is only responsible for generating the data in the paper, which needs further reasonable selections to obtain the figures in the paper. 
+These source codes are only responsible for generating the data in the paper, and therefore need further reasonable selections to obtain the figures in the paper. 
 
 ## Requirements
 
