@@ -29,13 +29,14 @@ Core dependencies:
 
 ## Citation
 ```bibtex
-@misc{yourlastname2026fidelity,
-      title={High-precision Fidelity Estimation with Common Randomized measurements}, 
-      author={Firstname Lastname and Firstname Lastname and Firstname Lastname},
-      year={2026},
-      eprint={2603.xxxxx},
+@misc{yang2025highprecisionfidelityestimationcommon,
+      title={High-Precision Fidelity Estimation with Common Randomized Measurements}, 
+      author={Zhongyi Yang and Datong Chen and Zihao Li and Huangjun Zhu},
+      year={2025},
+      eprint={2511.22509},
       archivePrefix={arXiv},
-      primaryClass={quant-ph}
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2511.22509}, 
 }
 ```
 
