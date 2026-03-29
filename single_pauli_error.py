@@ -1,7 +1,7 @@
 """
 single_pauli_error.py
 
-This module provides functions for calculating (cross) characteristic functions for single-qubit pauli error in Clifford CRM (fig. 4).
+This module provides functions for calculating (cross) characteristic functions for single-qubit pauli error in Clifford/4-design CRM (fig. 4).
 Author: YZY
 """
 
