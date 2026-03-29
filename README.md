@@ -43,46 +43,22 @@ Core dependencies:
 
 Here is a detailed guide on how to reproduce the core figures in our paper. 
 
-### Figure 1: Variance of Different Estimation Protocols
-This figure compares the variance of our proposed protocol against traditional methods under depolarizing noise.
-
+### Figure 2
 <p align="center">
-  <img src="./figures/fig1_variance.png" width="600" alt="Variance Comparison">
+  <img src="./figures/fig2.pdf" width="600" >
 </p>
 
-* **Corresponding Script**: `src/variance_eval.py`
-* **How to run**:
-  ```bash
-  python src/variance_eval.py --noise_type depolarizing --protocol common_randomized
-  ```
-* **Note**: The script will generate a `.csv` file. You can then use `scripts/plot_variance.py` to plot this exact figure.
+* **Corresponding Script**: `upperbound_k_0808.py`, `4design_upperbound_k.py`, `4design_and_Clifford_sametime(0304coherent).py`
+---
+
+### Figure 3
+
+<p align="center">
+  <img src="./figures/fig3.pdf" width="600" >
+</p>
+
+* **Corresponding Script**: `runmpi.py`
+
 
 ---
 
-### Figure 2: Verification of the Quantum Zeno Effect
-This figure illustrates the system dynamics under high-frequency measurements, verifying the mean-field Hamiltonian approximation.
-
-<p align="center">
-  <img src="./figures/fig2_zeno_effect.png" width="600" alt="Quantum Zeno Effect">
-</p>
-
-* **Corresponding Script**: `src/zeno_effect.py`
-* **How to run**:
-  ```bash
-  python src/zeno_effect.py --n_tot 12 --n_a 4 --k 2
-  ```
-
----
-
-### Figure 3: MPI Parallel Computation of $V^*$
-This figure shows the computational scaling of $V^*$ as the number of qubits ($n$) increases, computed using the MPI parallelized script.
-
-<p align="center">
-  <img src="./figures/fig3_vstar_scaling.png" width="600" alt="V* Scaling">
-</p>
-
-* **Corresponding Script**: `src/compute_V_star_mpi.py`
-* **How to run**:
-  ```bash
-  mpiexec -n 4 python src/compute_V_star_mpi.py
-  ```
