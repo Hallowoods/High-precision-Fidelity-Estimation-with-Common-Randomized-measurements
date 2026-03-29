@@ -24,7 +24,8 @@ Core dependencies:
 * Matplotlib
 * Pandas
 * Paddlepaddle    
-* Paddle-quantum  
+* Paddle-quantum
+* Mpi4py
 
 ## Citation
 ```bibtex
