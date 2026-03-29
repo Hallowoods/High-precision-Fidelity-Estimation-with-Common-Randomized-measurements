@@ -83,3 +83,12 @@ Here is a detailed guide on how to reproduce the core figures in our paper.
 
 * **Corresponding Script**: `sampling0820.py` (For both Clifford and 4-desgin CRM, Pauli noise), and `sampling0820_unitary.py` (For both Clifford and 4-desgin CRM, coherent noise)
 ---
+
+
+### Fig. 4
+<p align="center">
+  <img src="./figures/figS3.png" width="500" >
+</p>
+
+* **Corresponding Script**: `upperboundterms_k_depolar.py` 
+---
