@@ -115,7 +115,7 @@ Here is a detailed guide on how to reproduce the core figures in our paper.
 
 ### Fig. S6
 <p align="center">
-  <img src="./figures/figS6.png" width="500" >
+  <img src="./figures/figS6.png" width="1000" >
 </p>
 
 * **Corresponding Script**: `A_Small_repetition_upperbound_k.py` 
