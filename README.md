@@ -147,3 +147,17 @@ Here is a detailed guide on how to reproduce the core figures in our paper.
 
 * **Corresponding Script**: Calculated directly by Eqs. (2), (165) and (166).
 ---
+
+
+### Figs. S10 and S11
+<p align="center">
+  <img src="./figures/figS10.png" width="500" >
+</p>
+
+<p align="center">
+  <img src="./figures/figS10.png" width="500" >
+</p>
+
+* **Corresponding Script**: The results of Clifford and 4-design CRM is calculated directly by corresponding equations in the paper (easy to find and calculated), and the results of Pauli CRM is based on `PauliCRMTFIM_EDGS.py
+`
+---
