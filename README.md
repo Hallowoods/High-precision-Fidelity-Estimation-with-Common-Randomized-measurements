@@ -57,7 +57,7 @@ Here is a detailed guide on how to reproduce the core figures in our paper.
   <img src="./figures/fig3.pdf" width="600" >
 </p>
 
-* **Corresponding Script**: `runmpi.py`
+* **Corresponding Script**: `runmpi.py` (Only Pauli CRM is considered, since analytical expressions of 4-design and Clifford CRM can be easily obtained.)
 
 
 ---
