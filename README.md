@@ -73,7 +73,7 @@ Here is a detailed guide on how to reproduce the core figures in our paper.
 ---
 
 
-### Figs. S1,S2
+### Figs. S1 and S2
 <p align="center">
   <img src="./figures/figS1.png" width="500" >
 </p>
