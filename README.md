@@ -101,3 +101,13 @@ Here is a detailed guide on how to reproduce the core figures in our paper.
 
 * **Corresponding Script**: `unoise_1022vio.py` 
 ---
+
+
+### Fig. S5
+<p align="center">
+  <img src="./figures/figS5.png" width="500" >
+</p>
+
+* **Corresponding Script**: `upperbound_k_0808.py` (User needs to specify the parameters correctly)
+---
+
