@@ -2,7 +2,7 @@
 
 This module provides functions for calculating upper bound terms(including cross-characteristic, characteristic, variance, and their amplified version, sample complexity) for |ghz\> states with different n. Both for CRM and THR protocol.
 
-Pauli noise is assumed.
+z0 Pauli noise is assumed.
 
 Author: YZY
 
