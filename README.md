@@ -80,5 +80,6 @@ Here is a detailed guide on how to reproduce the core figures in our paper.
 <p align="center">
   <img src="./figures/figS2.png" width="500" >
 </p>
+
 * **Corresponding Script**: `sampling0820.py` (For both Clifford and 4-desgin CRM, Pauli noise), and `sampling0820_unitary.py` (For both Clifford and 4-desgin CRM, coherent noise)
 ---
