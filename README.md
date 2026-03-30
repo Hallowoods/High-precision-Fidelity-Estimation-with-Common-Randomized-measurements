@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-## Abstract of paper
+## Abstract of the paper
 Efficient fidelity estimation of multiqubit quantum states is crucial to quantum information processing. However, existing protocols require order $1/\epsilon^2$ different circuits to estimate the infidelity $\epsilon$ to multiplicative precision, posing a major bottleneck for high-precision fidelity estimation. Here, we prove that Clifford-based common randomized measurement (CRM) shadow estimation achieves a quadratic reduction to $1/\epsilon$ circuits. This follows from tight variance bounds for arbitrary observables under Clifford CRM, controlled by the deviation between the true state and a chosen prior. Under dominant noise models---including depolarizing and Pauli noise---the circuit cost collapses to a constant, independent of both $\epsilon$ and the qubit number, and a single circuit often suffices for intermediate and large systems. We further show that experimentally simpler Clifford measurements outperform $4$-design measurements in many practical scenarios, while both offer exponential advantages over Pauli measurements.
 
 
