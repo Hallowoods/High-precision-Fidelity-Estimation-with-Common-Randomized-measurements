@@ -10,14 +10,14 @@
 Efficient fidelity estimation of multiqubit quantum states is crucial to quantum information processing. However, existing protocols require order $1/\epsilon^2$ different circuits to estimate the infidelity $\epsilon$ to multiplicative precision, posing a major bottleneck for high-precision fidelity estimation. Here, we prove that Clifford-based common randomized measurement (CRM) shadow estimation achieves a quadratic reduction to $1/\epsilon$ circuits. This follows from tight variance bounds for arbitrary observables under Clifford CRM, controlled by the deviation between the true state and a chosen prior. Under dominant noise models---including depolarizing and Pauli noise---the circuit cost collapses to a constant, independent of both $\epsilon$ and the qubit number, and a single circuit often suffices for intermediate and large systems. We further show that experimentally simpler Clifford measurements outperform $4$-design measurements in many practical scenarios, while both offer exponential advantages over Pauli measurements.
 
 
-## Repositories Introduction
+## Repository Introduction
 The codes in this project are primarily designed to:
 * Compute various quantum state fidelities, cross characteristic functions, and twisted cross characteristic functions and other relevant quantities discussed in the paper https://arxiv.org/pdf/2511.22509.
 * Simulate the numerical values of these quantities under different noise models.
 * Evaluate and compare the variance and circuit cost of different estimation protocols.
 
 ## Notice
-These source codes are only responsible for generating the data in the paper, and therefore need further reasonable selections to obtain the figures in the paper. 
+These source codes are only responsible for generating the data in the paper, and therefore need further reasonable selections to obtain the figures in the paper.  However, the current version of the paper on arXiv needs further update. This repository is responsible for the updated version, not the previous one.
 
 ## Requirements
 
